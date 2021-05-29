@@ -2,6 +2,6 @@
 
 ---
 
-This is an interactive story game with actions chosen by the user.
+This is an OOP style dungeon game.
 
 Zoey Ng - all responsibilities
